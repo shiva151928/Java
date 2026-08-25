@@ -14,3 +14,8 @@ Constructors
 10) Initailize array size in the constructor
 Inheritance
 11) given a product and program write a list class
+12) searching a product
+13) Given a product and student class write a list class 
+14) Given a product and student class and integer string and double write a list class 
+Object 
+15) Same question write with extending or Object class and print
