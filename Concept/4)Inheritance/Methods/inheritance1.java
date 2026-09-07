@@ -18,5 +18,7 @@ class program
     {
       parent p=new parent();
       child c=new child();
+      p.print();
+      c.print();
     }
   }
