@@ -1,0 +1,70 @@
+/*
+
+	Networking: Commnunication two or more systems. 
+
+	Server: Is a software which takes request and gives response to client.
+
+		types of servers:
+
+			1. OS Servers
+
+				Win-nt, win-2000, unix, linux,......
+
+
+			2. Database servers : used to store data in the form of rows and columns and can be accessed over the network.
+
+				2. Oracle
+				3. Ms Sql server
+				4. Mysql (oracle)
+				1. Db2 (IBM)
+
+			3. Web/Application server can be used for web applications
+
+				1. tomcat
+				2. weblogic
+				3. glassfish.
+				4. Internet information service ( MS IIS ) 
+
+
+	
+	Client: is also a software which makes request and takes response.
+
+
+
+	IP Address: internet protocol address a unique id to identify a system over the network.
+
+
+	protocol: is a piece of software program which has set of rules which helps in transfering data over the network.
+
+		1. tcp : transmission control protocol
+
+		2. tcp/ip : transmission control protocol and internet protocol.
+
+		3. ftp : file transfer 
+
+		4. http: hypertext transfer protocol
+
+		5. https : hyper text transfer protocol and secured socket layer
+
+		6. udp : user data gram protocol.
+
+
+	port no: is a logical number assigned to a server or client software. ( 0 to 65535) first 1000 ports can be used by welknown servers.
+
+
+
+	Server program : waits on a particular port no . when a client connects to the server server will accept the request and holds client information as a socket object. once the socket object is created in the server program server will send a response to the client program, then client will hold server information as a socket object.
+
+		socket programming.
+
+
+
+
+
+
+
+
+
+
+
+*/
